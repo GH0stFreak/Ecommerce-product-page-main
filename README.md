@@ -1,4 +1,4 @@
-<h1 align="center">Blogr landing page</h1>
+<h1 align="center">Ecommerce project page</h1>
 
 ![Design preview for the Blogr landing page coding challenge](./images/project-preview.png)
 
