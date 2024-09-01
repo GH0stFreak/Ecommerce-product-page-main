@@ -1,10 +1,10 @@
 <h1 align="center">Ecommerce project page</h1>
 
-![Design preview for the Blogr landing page coding challenge](./images/project-preview.png)
+![Design preview for the Ecommerce project page coding challenge](./images/project-preview.png)
 
 <div align="center">
   <h3>
-    <a href="https://gh0stfreak.github.io/Blogr-landing-page-main/" color="white" target="_blank">
+    <a href="https://gh0stfreak.github.io/Ecommerce-product-page-main/" color="white" target="_blank">
       Live
     </a>
   <span> | 
